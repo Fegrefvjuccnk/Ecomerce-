@@ -1,0 +1,15 @@
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\bin\Debug\net8.0\Talbat.Services.deps.json
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\bin\Debug\net8.0\Talbat.Services.dll
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\bin\Debug\net8.0\Talbat.Services.pdb
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.AssemblyInfoInputs.cache
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.AssemblyInfo.cs
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.dll
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\refint\Talbat.Services.dll
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.pdb
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\ref\Talbat.Services.dll
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.Services.csproj.AssemblyReference.cache
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\bin\Debug\net8.0\Talbat.Core.dll
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\bin\Debug\net8.0\Talbat.Core.pdb
+C:\Users\Ebrahem\source\repos\Talbat\Talbat.Services\obj\Debug\net8.0\Talbat.S.2B1E4590.Up2Date
